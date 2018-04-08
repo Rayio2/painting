@@ -34,7 +34,7 @@ tutorial.onmousemove=function(paint){
       }
       if(flag===2)
       {
-        context.clearRect(paint.clientX-250,paint.clientY-50,5,5)
+        context.clearRect(paint.clientX-250,paint.clientY-50,20,20)
       }
       if(flag===3)
       {
